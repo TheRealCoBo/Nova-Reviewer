@@ -2,8 +2,8 @@
   "type": "nova_owner_adjustments",
   "version": 4,
   "source": "owner",
-  "sessionId": "NOVA-2026-04-29-3422",
-  "createdAt": "2026-04-29T15:51:41.312Z",
+  "sessionId": "NOVA-2026-04-29-5024",
+  "createdAt": "2026-04-29T19:29:30.466Z",
   "xfers": [
     {
       "customer": "Binh Duong",
@@ -28,9 +28,13 @@
     {
       "customer": "Hilda Zaragoza",
       "rep": "Sytoris Anderson",
-      "payableAmount": 360,
-      "revenue": 360,
+      "payableAmount": 100,
+      "revenue": 100,
       "descriptions": [
+        "B2B Tiered Volume Bonus",
+        "B2B Tiered Volume Bonus",
+        "B2B Tiered Volume Bonus",
+        "B2B Tiered Volume Bonus",
         "B2B Tiered Volume Bonus",
         "B2B Tiered Volume Bonus",
         "B2B Tiered Volume Bonus",
@@ -44,9 +48,10 @@
     {
       "customer": "Jesus Melendez Cintron",
       "rep": "Jayse Meek",
-      "payableAmount": 65,
-      "revenue": 65,
+      "payableAmount": 35,
+      "revenue": 35,
       "descriptions": [
+        "B2B Tiered Volume Bonus",
         "B2B Tiered Volume Bonus"
       ],
       "hasVolumeTierBonus": true,
@@ -92,7 +97,7 @@
       ],
       "hasVolumeTierBonus": false,
       "transferTo": "Lawrence Talbert",
-      "choice": "50",
+      "choice": "100",
       "customDetails": ""
     },
     {
