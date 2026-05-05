@@ -1,0 +1,63 @@
+{
+  "type": "nova_owner_adjustments",
+  "version": 4,
+  "source": "owner",
+  "sessionId": "NOVA-2026-05-05-9056",
+  "createdAt": "2026-05-05T17:01:47.834Z",
+  "xfers": [
+    {
+      "customer": "Adnan Gjinaj",
+      "rep": "Grant Harris",
+      "payableAmount": 1569.5,
+      "revenue": 2899,
+      "descriptions": [
+        "CRU AIR",
+        "B2B Tiered Volume Bonus",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "B2B Tiered Volume Bonus",
+        "CRU Bonus - New/Port"
+      ],
+      "hasVolumeTierBonus": true,
+      "transferTo": "",
+      "choice": "100",
+      "customDetails": ""
+    }
+  ],
+  "bonuses": [],
+  "firstPaychecks": [],
+  "installs": {
+    "rawRows": []
+  },
+  "summary": {
+    "xferCount": 1,
+    "bonusTotal": 0,
+    "holdCount": 0,
+    "firstCount": 0,
+    "installRows": 0
+  }
+}
