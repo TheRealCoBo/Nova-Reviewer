@@ -1,0 +1,476 @@
+{
+  "type": "nova_owner_adjustments",
+  "version": 4,
+  "source": "owner",
+  "sessionId": "NOVA-2026-05-07-4512",
+  "createdAt": "2026-05-07T00:22:16.998Z",
+  "xfers": [
+    {
+      "customer": "Brendan Mulvenna",
+      "rep": "Kevin Driggs",
+      "payableAmount": 333,
+      "revenue": 666,
+      "descriptions": [
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "CRU Bonus - New/Port"
+      ],
+      "hasVolumeTierBonus": false,
+      "lineItems": [
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "Auto Bill Pay",
+          "amount": 144,
+          "revenue": 288,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "Auto Bill Pay",
+          "amount": 144,
+          "revenue": 288,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/23/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        }
+      ],
+      "transferTo": "Miguel Fumero",
+      "choice": "100",
+      "customDetails": "CRU 2 Lines"
+    },
+    {
+      "customer": "Richard Henegar",
+      "rep": "Jayse Meek",
+      "payableAmount": 507,
+      "revenue": 1014,
+      "descriptions": [
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "CRU Bonus - New/Port",
+        "CRU Port Line - OOF",
+        "AT&T Unlimited Advanced Bonus",
+        "CRU Bonus - New/Port",
+        "MCOE Bonus"
+      ],
+      "hasVolumeTierBonus": false,
+      "lineItems": [
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "Auto Bill Pay",
+          "amount": 144,
+          "revenue": 288,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/28/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "Auto Bill Pay",
+          "amount": 144,
+          "revenue": 288,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/28/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/28/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/29/2026",
+          "activationDate": "4/29/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "No Auto Bill Pay",
+          "amount": 139,
+          "revenue": 278,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/29/2026",
+          "activationDate": "4/29/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/29/2026",
+          "activationDate": "4/29/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/29/2026",
+          "activationDate": "4/29/2026",
+          "description": "MCOE Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU WIRELESS",
+          "orderType": "",
+          "amount": 12.5,
+          "revenue": 25,
+          "isVolumeTierBonus": false
+        }
+      ],
+      "transferTo": "Jonathan Bruner",
+      "choice": "custom",
+      "customDetails": "WIRELESS:\n  CRU Port Line - OOF\nWIRELESS BONUS:\n  AT&T Unlimited Advanced Bonus\n  CRU Bonus - New/Port",
+      "customAmount": 166.5,
+      "customRevenue": 333,
+      "customLineItems": [
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Port Line - OOF",
+          "category": "WIRELESS",
+          "status": "Posted",
+          "details": "Tier 3",
+          "orderType": "Auto Bill Pay",
+          "amount": 144,
+          "revenue": 288,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "AT&T Unlimited Advanced Bonus",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "CRU Port Line",
+          "orderType": "",
+          "amount": 5,
+          "revenue": 10,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/25/2026",
+          "activationDate": "4/27/2026",
+          "description": "CRU Bonus - New/Port",
+          "category": "WIRELESS BONUS",
+          "status": "Posted",
+          "details": "",
+          "orderType": "",
+          "amount": 17.5,
+          "revenue": 35,
+          "isVolumeTierBonus": false
+        }
+      ]
+    },
+    {
+      "customer": "Zachary Stephen Kelenski",
+      "rep": "Abdallah Hasan",
+      "payableAmount": 179,
+      "revenue": 293,
+      "descriptions": [
+        "CRU AIR",
+        "B2B Tiered Volume Bonus"
+      ],
+      "hasVolumeTierBonus": true,
+      "lineItems": [
+        {
+          "saleDate": "4/30/2026",
+          "activationDate": "4/30/2026",
+          "description": "CRU AIR",
+          "category": "AIR",
+          "status": "Posted",
+          "details": "Tier 2",
+          "orderType": "No Auto Bill Pay",
+          "amount": 114,
+          "revenue": 228,
+          "isVolumeTierBonus": false
+        },
+        {
+          "saleDate": "4/30/2026",
+          "activationDate": "4/30/2026",
+          "description": "B2B Tiered Volume Bonus",
+          "category": "AIR Bonus",
+          "status": "Posted",
+          "details": "CRU AIR",
+          "orderType": "",
+          "amount": 65,
+          "revenue": 65,
+          "isVolumeTierBonus": true
+        }
+      ],
+      "transferTo": "Grant Miner",
+      "choice": "100",
+      "customDetails": "CRU 1 Air"
+    }
+  ],
+  "bonuses": [
+    {
+      "rep": "Jonathan Bruner",
+      "amount": 250,
+      "description": "LOTB"
+    },
+    {
+      "rep": "Grace Tomaielly",
+      "amount": 50,
+      "description": "LINE BONUS"
+    },
+    {
+      "rep": "Lawrence Talbert",
+      "amount": 232.5,
+      "description": "NEW REP BONUS"
+    },
+    {
+      "rep": "Evan Spurrier",
+      "amount": 400,
+      "description": "FAST TRACK 2"
+    }
+  ],
+  "firstPaychecks": [],
+  "installs": {
+    "rawRows": [
+      {
+        "installedBy": "Cameron Grant",
+        "date": "4/30/2026",
+        "customer": "Candi Johnson",
+        "salesRep": "Tiernan Dailey",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "4/30/2026",
+        "customer": "Adnan Gjinaj",
+        "salesRep": "Grant Harris",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "4/30/2026",
+        "customer": "Rey Garcia",
+        "salesRep": "Jayse Meek",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "4/30/2026",
+        "customer": "Eunice Ortiz",
+        "salesRep": "Jonathan Bruner",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/4/2026",
+        "customer": "Catherine Laffitte",
+        "salesRep": "Daniel Blank",
+        "int": 0,
+        "nl": 1,
+        "c2j": 1
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/4/2026",
+        "customer": "Mike Pisano",
+        "salesRep": "Tiernan Dailey",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/4/2026",
+        "customer": "Claudia Santisteban",
+        "salesRep": "Tiernan Dailey",
+        "int": 1,
+        "nl": 1,
+        "c2j": 1
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/5/2026",
+        "customer": "Bruce Blocker",
+        "salesRep": "Lethia Houston",
+        "int": 1,
+        "nl": 0,
+        "c2j": 1
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/5/2026",
+        "customer": "Sabrina Gonzales",
+        "salesRep": "Rodrigo Silva Luis",
+        "int": 1,
+        "nl": 1,
+        "c2j": 1
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/5/2026",
+        "customer": "Jonathan Card",
+        "salesRep": "Daniel Blank",
+        "int": 1,
+        "nl": 2,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/5/2026",
+        "customer": "Nicholas Smith",
+        "salesRep": "Tiernan Dailey",
+        "int": 1,
+        "nl": 1,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/6/2026",
+        "customer": "Jordan Veit",
+        "salesRep": "Grace Tomaielly",
+        "int": 1,
+        "nl": 0,
+        "c2j": 0
+      },
+      {
+        "installedBy": "Cameron Grant",
+        "date": "5/6/2026",
+        "customer": "Karla Raldao",
+        "salesRep": "Sytoris Anderson",
+        "int": 1,
+        "nl": 3,
+        "c2j": 0
+      }
+    ]
+  },
+  "summary": {
+    "xferCount": 3,
+    "bonusTotal": 932.5,
+    "holdCount": 0,
+    "firstCount": 0,
+    "installRows": 13
+  }
+}
